@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## BEFORE GETTING STARTED
+
+Create an `.env` file starting from the `.env.example` template and add your `appID` value from the Firebase Dashboard.
+
 ## Available Scripts
 
 In the project directory, you can run:
